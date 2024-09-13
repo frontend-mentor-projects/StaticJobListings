@@ -10,8 +10,6 @@ This project is a solution to the [Job Listings challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
-  - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,15 +23,30 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Filter job listings based on the provided filter tags
 - Clear all applied filter tags at once
-- **Bonus**: Use the JSON data provided to dynamically populate the job listings
+- Use the JSON data provided to dynamically populate the job listings
 
 ### Screenshot
 
-(Include a screenshot or animated GIF of your finished project here)
+1. Desktop
+
+![Desktop](/images/screenshots/desktop.png)
+
+2. Desktop with Filters
+
+![Desktop With Filters](/images/screenshots/desktop-with-filters.png)
+
+3. Mobile
+
+![Mobile](/images/screenshots/mobile.png)
+
+4. Mobile with Filters
+
+![Mobile with Filters](/images/screenshots/mobile-with-filters.png)
+
 
 ### Links
 
-- Live Site URL: (Add your live site URL here)
+- [Live Site URL](https://job-listings-roan-seven.vercel.app/) 
 
 ## My Process
 
@@ -42,14 +55,6 @@ Users should be able to:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) (or similar for data fetching)
-- (Optionally mention any CSS frameworks or libraries used)
-
-### What I Learned
-
-- Dynamically generating HTML elements using JavaScript
-- Filtering data based on user interaction
-- Managing application state
 
 ## Author
 
@@ -58,4 +63,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-- Frontend Mentor for providing the challenge and design resources
+- **Frontend Mentor** for providing the challenge and design resources
